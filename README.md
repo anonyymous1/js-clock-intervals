@@ -3,13 +3,13 @@
 Create a webpage that displays a clock where the
 second, minute, and hour hands tick.
 
-#1: Write CSS to have the clock face, second, minute, hour
-hands all display correctly on top of the face.
+<!-- #1: Write CSS to have the clock face, second, minute, hour
+hands all display correctly on top of the face. -->
 
-#2: Write CSS to have the second, minute, hour
+<!-- #2: Write CSS to have the second, minute, hour
 hands all display in the correct order. Make
 sure the red second hand displays on top of the minute
-and hour hand.
+and hour hand. -->
 
 #3: Write a function that converts the seconds to degrees of rotation and returns the degrees.
 
