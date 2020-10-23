@@ -1,15 +1,30 @@
 #clock img {
-
+    position: absolute;
+    z-index: 1;
 }
 
 #hour {
-
+    position: absolute;
+    z-index: 2;
+    /* transform: rotate (20deg); */
 }
 
 #minute {
-
+    position: absolute;
+    z-index: 3;
 }
 
 #second {
-
+    position: absolute;
+    z-index: 4;
 }
+
+#clock {
+    /* display: grid;
+    justify-items: center;
+    align-items: center; */
+}
+
+/* .fc, .hr, .min, .sec {
+    position: absolute;
+} */
